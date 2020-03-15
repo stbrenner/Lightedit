@@ -3,6 +3,5 @@ obj
 *.suo
 *.user
 .vs
-/InstantPython/Python/
 /debug.log
 /packages/
